@@ -72,3 +72,6 @@ _  |        |           _.-'         Original by M.C. Escher
          `-.|.-'
 ```
 Credits: <https://www.asciiart.eu/art-and-design/escher>
+
+I believe the original painting is this one:  
+<https://mcescher.com/gallery/recognition-success/#iLightbox[gallery_image_1]/35>
